@@ -1,0 +1,7 @@
+20.12.2019
+Alle Aufgaben nochmals anschauen vorallem die letzten mit Objekten.
+object serialisieren, wissen das man casten muss usw, transient kommt an prüfung
+Kapitel 17 lesen bis min. 17.5
+
+17.01.2019
+test

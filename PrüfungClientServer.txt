@@ -1,0 +1,18 @@
+Netzwerk:	Topologie, die darstellt wie pc miteinander verbunden sind
+Threads: 	teilprozesse, können parallel ablaufen, 
+Streams: 	Ströme ein ausgabe
+Ports:		Schnittstelle von netzwerkkarte mit nummer, welcher prozess will genau angesteuert werden das entscheidet die ip adresse und der zuständige port
+		Port bis 1023 sind belegt, über 2000 wählen..
+Socket:		Die verbindung vom pc zum server. z.b google aufruf socket wird bei google server erstellt beim schliessen geht die verbindung weg.
+Prozess:
+Protokoll: 	Defininiert nach welchen Regeln kommuniziert wird(Formate, Befehle, Abläufe), 
+     		z.b. bluetooth ist ein protokoll, auf jedem layer (von 7) gibt es verschiedene Protokolle, 
+		z.b. Http ist auf layer 7 und auf layer 1 kann man die geräte tauschen das beinflusst layer 7 nicht
+IP: 		Standart prozess wie man im internet redet miteinander, jeder teilnehmer (host) hat eine ip adresse. sind eindeutig
+
+Client ruft das wissen vom Server ab.. alles läuft über server. wir machen nur tcp kein udp. nur client server.
+
+
+Je nach useragent entscheidet der server was er zurückschickt je nach client. z.b. curl wttr.in gibt text zurück. mit mozilla wetter.in gibt normale website zurück
+
+--Hostname kann ersetzt werden durch ip adresse z.b. www.sbb.ch = 104.29. usw Client muss als Protokoll als DNS verwenden

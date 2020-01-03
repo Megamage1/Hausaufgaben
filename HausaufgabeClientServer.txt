@@ -1,0 +1,8 @@
+20.12.2019
+18.1 und 18.2 und mit threads
+Links auf Folie benutzen und lesen, Devtools von google chrome anschauen, know how- edit configurations und program arguments- url einfügen
+
+17.01.2019
+DateTimeServer mit mehreren Clients aus buch.
+halbe Seite A4 als cheatsheet, 30min
+Übungen aus buch anschauen
